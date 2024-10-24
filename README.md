@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/earlyvibz" target="blank"><img src="https://img.shields.io/twitter/follow/earlyvibz?logo=twitter&style=for-the-badge" alt="earlyvibz" /></a> </p>
 
-- 🔭 I’m currently working on [Kairos Loan](https://www.kairos.loan/)
+- 🔭 I’m currently working on [Jockiz](https://www.jockiz.com/)
 
 - 💬 Ask me about **everything**
 
